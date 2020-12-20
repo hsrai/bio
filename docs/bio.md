@@ -1,6 +1,6 @@
 # H S Rai
 
-[hsrai @ GNDEC](https://gndec.ac.in/~hsrai/)
+[hsrai](https://gndec.ac.in/faculty/?id=268) @ [GNDEC](https://gndec.ac.in/)
 
 - Professor of Civil Engineering
 - Head of the Department
